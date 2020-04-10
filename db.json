@@ -1,0 +1,184 @@
+{
+  "Questions": [
+    {
+      "question": "(Category: 1) What does HTML stand for?",
+      "choice1": "Hyper Text Markup Language",
+      "choice2": "Hyperlinks and Text Markup Language",
+      "choice3": "Home Tool Markup Language",
+      "choice4": "High Text Markup Language",
+      "answer": 1,
+      "answerData": "Hyper Text Markup Language"
+    },
+    {
+      "question": "What is the correct sequence of HTML tags for starting a webpage?",
+      "choice1": "Head, Title, HTML",
+      "choice2": "Title, Head, HTML",
+      "choice3": "HTML, Head, Title",
+      "choice4": "Head , HTML, Title",
+      "answer": 3,
+      "answerData": "HTML, Head, Title"
+    },
+    {
+      "question": "What is the correct HTML for adding a background color?",
+      "choice1": "Body style=''background color: yellow''",
+      "choice2": "background=''yellow''",
+      "choice3": "Background yellow /backgroundBody ",
+      "choice4": "color=''yellow''",
+      "answer": 2,
+      "answerData": "background=''yellow''"
+    },
+    {
+      "question": "Which of the following tags contains metadata about the webpage?",
+      "choice1": "<head>",
+      "choice2": "<title>",
+      "choice3": "<body>",
+      "choice4": "<main>",
+      "answer": 1,
+      "answerData": "head"
+    },
+    {
+      "question": "How do you add a paragraph in html?",
+      "choice1": "<paragraph>",
+      "choice2": "<a>",
+      "choice3": "<img>",
+      "choice4": "<p>",
+      "answer": 4,
+      "answerData": "p"
+    },
+    {
+      "question": "Which of the following selector selects  elements that are checked?",
+      "choice1": "E ~ F",
+      "choice2": "::after",
+      "choice3": ":checked",
+      "choice4": "none of them",
+      "answer": 3,
+      "answerData": ":checked"
+    },
+    {
+      "question": "HTML is what type of programming?",
+      "choice1": "Macro programming",
+      "choice2": "Markup language",
+      "choice3": "Scripting language",
+      "choice4": "Programming language",
+      "answer": 2,
+      "answerData": "Markup language"
+    },
+    {
+      "question": "What is the proper way to add a page break?",
+      "choice1": "<break add>",
+      "choice2": "add <break>",
+      "choice3": "<br>",
+      "choice4": "/break",
+      "answer": 3,
+      "answerData": "br"
+    },
+    {
+      "question": "Which of the following  selects  the target of a referring URI?",
+      "choice1": ":URLselect",
+      "choice2": ":target",
+      "choice3": ":URI",
+      "choice4": ":select",
+      "answer": 2,
+      "answerData": ":target"
+    },
+    {
+      "question": "The attribute of <form> tag is?",
+      "choice1": "Method",
+      "choice2": "Action",
+      "choice3": "Both",
+      "choice4": "None of them",
+      "answer": 3,
+      "answerData": "Both"
+    },
+    {
+      "question": "Markup tags tell the web browser about?",
+      "choice1": "How to organise the page",
+      "choice2": "How to display the page",
+      "choice3": "How to display message box on page",
+      "choice4": "None of them",
+      "answer": 2,
+      "answerData": "How to display the page"
+    },
+    {
+      "question": "(Category: 2) <p> 20 </p> What will this tag display on browser? (click next button to enter your answer)",
+      "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": "",
+      "answerData": "20"
+    },
+    {
+      "question": "____ is the correct HTML tag for the largest heading? (click next button to enter your answer)",
+      "choice1": "",
+      "choice2": "",
+      "choice3": "",
+      "choice4": "",
+      "answer": "",
+      "answerData": "h1"
+    },
+    {
+      "question": "(Category: 3) HTML tags are case sensitive",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 2,
+      "answerData": "False"
+    },
+    {
+      "question": "All web pages should have an <html>, <head>, and a <body> element.",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 1,
+      "answerData": "True"
+    },
+    {
+      "question": "This is a tag with attributes: <p class='info'>",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 1,
+      "answerData": "True"
+    },
+    {
+      "question": "Elements are the same as tags.",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "-",
+      "choice4": "-",
+      "answer": 2,
+      "answerData": "False"
+    },
+    {
+      "question": "(Category: 4) <p id='Quiz'></p> What will this tag display on browser?",
+      "choice1": "It will display nothing",
+      "choice2": "Quiz",
+      "choice3": "Paragraph",
+      "choice4": "None of them",
+      "answer": 1,
+      "answerData": "It will display nothing"
+    },
+    {
+      "question": "<p id='Quiz'>Hello!!</p> What will this tag display on browser?",
+      "choice1": "It will display nothing",
+      "choice2": "Paragraph",
+      "choice3": "Quiz",
+      "choice4": "Hello!!",
+      "answer": 4,
+      "answerData": "Hello!!"
+    },
+    {
+      "question": "(Category: 5) The ______ attribute tells the browser which HTML page to load.",
+      "choice1": "link",
+      "choice2": "href",
+      "choice3": "src",
+      "choice4": "load",
+      "answer": 3,
+      "answerData": "src"
+    }
+  ]
+}
