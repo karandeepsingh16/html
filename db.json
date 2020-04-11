@@ -1,7 +1,7 @@
 {
   "Questions": [
     {
-      "question": "(Category: 1) What does HTML stand for?",
+      "question":  "What does HTML stand for?",
       "choice1": "Hyper Text Markup Language",
       "choice2": "Hyperlinks and Text Markup Language",
       "choice3": "Home Tool Markup Language",
