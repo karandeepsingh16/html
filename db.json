@@ -1,13 +1,12 @@
 {
   "Questions": [
     {
-      "question":  "What does HTML stand for?",
-      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fkinsta.com%2Fknowledgebase%2Fchange-wordpress-url%2F&psig=AOvVaw36jYjfEaTI4y9R9DsMtdO7&ust=1586707585381000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjuo8Hg4OgCFQAAAAAdAAAAABAD",
-      "choice1": "Hyper Text Markup Language",
-      "choice2": "Hyperlinks and Text Markup Language",
-      "choice3": "Home Tool Markup Language",
-      "choice4": "High Text Markup Language",
-      "answer": 1,
+      "question":  "What does this snippet do?",
+      "choice1": "creates an image",
+      "choice2": "sets an image as the background",
+      "choice3": "does nothing because incorrect syntax",
+      "choice4": "none of the above",
+      "answer": 2,
       "answerData": "Hyper Text Markup Language"
     },
     {
