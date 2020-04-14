@@ -100,7 +100,7 @@
       "answerData": "How to display the page"
     },
     {
-      "question": "(Category: 2) <p> 20 </p> What will this tag display on browser? (click next button to enter your answer)",
+      "question": "<p> 20 </p> What will this tag display on browser? (click next button to enter your answer)",
       "choice1": "",
       "choice2": "",
       "choice3": "",
@@ -118,7 +118,7 @@
       "answerData": "h1"
     },
     {
-      "question": "(Category: 3) HTML tags are case sensitive",
+      "question": "HTML tags are case sensitive",
       "choice1": "True",
       "choice2": "False",
       "choice3": "-",
@@ -154,7 +154,7 @@
       "answerData": "False"
     },
     {
-      "question": "(Category: 4) <p id='Quiz'></p> What will this tag display on browser?",
+      "question": "<p id='Quiz'></p> What will this tag display on browser?",
       "choice1": "It will display nothing",
       "choice2": "Quiz",
       "choice3": "Paragraph",
@@ -172,7 +172,7 @@
       "answerData": "Hello!!"
     },
     {
-      "question": "(Category: 5) The ______ attribute tells the browser which HTML page to load.",
+      "question": "The ______ attribute tells the browser which HTML page to load.",
       "choice1": "link",
       "choice2": "href",
       "choice3": "src",
